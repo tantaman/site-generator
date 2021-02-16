@@ -1,0 +1,14 @@
+{
+  "name": "site-generator",
+  "version": "1.0.0",
+  "description": "generate static sites",
+  "main": "generate-site.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Wonlaw",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  }
+}
